@@ -1,1 +1,59 @@
 # Java Developer Professional Course
+
+## Course topics
+
+- [ ] Preparation for the course
+  - [ ] Task
+- [ ] Addition to gradle. Java change history
+- [ ] QA and testing
+- [ ] Container conversion tools, unsafe, jmh
+  - [ ] Task
+- [ ] Annotations
+  - [ ] Task
+- [ ] Lombok
+- [ ] Garbage collector
+  - [ ] Task
+- [ ] Java in Docker
+- [ ] Byte code, class-loader, instrumentation, asm
+  - [ ] Task
+- [ ] Functional programming in Java
+- [ ] OOP design concepts
+  - [ ] Task
+- [ ] Creational patterns
+- [ ] Behavioral patterns
+- [ ] Structural patterns
+  - [ ] Task
+- [ ] Serialization
+  - [ ] Task
+- [ ] NIO. Logging
+- [ ] JDBC
+  - [ ] Task
+- [ ] General issues of working with DBMS, RDBMS architecture
+- [ ] Hibernate
+- [ ] JPQL
+  - [ ] Task
+- [ ] Link types. Caching
+  - [ ] Task
+- [ ] No SQL
+- [ ] Web server
+  - [ ] Task
+- [ ] Dependency injection
+  - [ ] Task
+- [ ] Spring Boot. Spring MVC
+- [ ] Asynchronous Web applications
+- [ ] Spring Data Jdbc
+  - [ ] Task
+- [ ] Thread
+- [ ] JMM
+- [ ] Executors
+  - [ ] Task
+- [ ] Thread-safe collections
+  - [ ] Task
+- [ ] Multi-process applications
+  - [ ] Task
+- [ ] Using RabbitMQ
+- [ ] NIO
+- [ ] Netty
+- [ ] Reactive programming. spring webflux
+  - [ ] Task
+- [ ] Application of Kafka
