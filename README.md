@@ -2,8 +2,8 @@
 
 ## Course topics
 
-- [ ] Preparation for the course
-  - [ ] Task
+- [X] Preparation for the course
+  - [X] Task
 - [ ] Addition to gradle. Java change history
 - [ ] QA and testing
 - [ ] Container conversion tools, unsafe, jmh
@@ -19,7 +19,7 @@
 - [ ] Functional programming in Java
 - [ ] OOP design concepts
   - [ ] Task
-- [ ] Creational patterns
+- [ ] Creation patterns
 - [ ] Behavioral patterns
 - [ ] Structural patterns
   - [ ] Task
