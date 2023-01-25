@@ -4,9 +4,9 @@
 
 - [X] Preparation for the course
   - [X] Task
-- [ ] Addition to gradle. Java change history
-- [ ] QA and testing
-- [ ] Container conversion tools, unsafe, jmh
+- [X] Addition to gradle. Java change history
+- [X] QA and testing
+- [X] Container conversion tools, unsafe, jmh
   - [ ] Task
 - [ ] Annotations
   - [ ] Task
