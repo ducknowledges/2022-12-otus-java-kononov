@@ -9,7 +9,9 @@ import java.util.TreeMap;
 
 public class CustomerService {
 
-    private final NavigableMap<Customer, String> map = new TreeMap<>(Comparator.comparing(Customer::getScores));
+    private final NavigableMap<Customer, String> map = new TreeMap<>(
+        Comparator.comparing(Customer::getScores)
+    );
 
     public Map.Entry<Customer, String> getSmallest() {
         return getClonedEntry(map.firstEntry());
