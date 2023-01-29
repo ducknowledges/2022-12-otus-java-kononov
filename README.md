@@ -7,7 +7,7 @@
 - [X] Addition to gradle. Java change history
 - [X] QA and testing
 - [X] Containers and Algorithms
- - [X] Task[task-2]
+  - [X] Task[task-2]
 - [X] Container conversion tools, unsafe, jmh
 - [X] Annotations
   - [ ] Task
