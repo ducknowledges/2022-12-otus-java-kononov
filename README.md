@@ -3,12 +3,13 @@
 ## Course topics
 
 - [X] Preparation for the course
-  - [X] Task
+  - [X] Task[task-1]
 - [X] Addition to gradle. Java change history
 - [X] QA and testing
+- [X] Containers and Algorithms
+ - [X] Task[task-2]
 - [X] Container conversion tools, unsafe, jmh
-  - [ ] Task
-- [ ] Annotations
+- [X] Annotations
   - [ ] Task
 - [ ] Lombok
 - [ ] Garbage collector
@@ -57,3 +58,6 @@
 - [ ] Reactive programming. spring webflux
   - [ ] Task
 - [ ] Application of Kafka
+
+[task-1]:https://github.com/ducknowledges/2022-12-otus-java-kononov/tree/main/hw01-gradle
+[task-2]:https://github.com/ducknowledges/2022-12-otus-java-kononov/tree/main/hw02-containers
